@@ -4,7 +4,7 @@
 
 自用，根据思源笔记软件功能意思，重新替换了绝大部分图标，图更达意，-配合简约系主题使用更佳。
 
-图标无原创，绝大部分图标来自[RemixIcon](https://github.com/Remix-Design/remixicon#usage) ，极个别来自[iconfont-阿里巴巴矢量图标库](https://www.iconfont.cn/) ，感谢！
+图标无原创，绝大部分图标来自[RemixIcon](https://github.com/Remix-Design/remixicon#usage) ，极个别来自[tabler-icons](https://github.com/tabler/tabler-icons) ，感谢！
 
 
 ### 更新日志
