@@ -7,7 +7,10 @@
 图标无原创，绝大部分图标来自[RemixIcon](https://github.com/Remix-Design/remixicon#usage) ，极个别来自[tabler-icons](https://github.com/tabler/tabler-icons) ，感谢！
 
 
-### 更新日志
+## 更新日志
+### 2.9
+* 优化新增图标
+
 ### 2.8
 适配ai等图标 
 ### 2.7
