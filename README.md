@@ -1,4 +1,4 @@
-[中文](https://github.com/mozhux/Remix-icon/blob/master/README_zh_CN.md))
+[中文](https://github.com/mozhux/Remix-icon/blob/master/README_zh_CN.md)
 
 It is a neutral open-source icon pack with a consistent style and visual alignment. Through careful selection of icons in the pack, the aim is for them to accurately convey their functional meaning.
 
